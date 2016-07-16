@@ -1,6 +1,6 @@
 ## Preface
 
-This is a simple implementation of the VF2 algorithm.
+This is a simple _implementation_ of the VF2 algorithm.
 The **VF2** algorithm is used for (sub)graph isomorphism task.
 
 Actually, this code is written for a homework of the Graph Data Management course in Peking University.
